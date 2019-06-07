@@ -14,5 +14,5 @@ geometry adjusted.
 ![KiCAD 3D Settings screenshot](kicad_screenshot.png)
 
 I'm putting this model in public domain, any use, modification, or
-reproduction is permitted. The rights to the design of the plug itself belongs
+reproduction is permitted. The rights to the design of the plug itself belong
 to CUI.
